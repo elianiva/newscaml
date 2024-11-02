@@ -1,0 +1,4 @@
+(executable
+ (public_name newscaml)
+ (name main)
+ (libraries newscaml dream dream-html))
